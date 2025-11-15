@@ -57,5 +57,5 @@ tm_shape()+
   tm_compass()+
   tm_minimap()
 
-webshot2::webshot(url = "http://127.0.0.1:42745/b63925c2/index.html",
+webshot2::webshot(url = "http://127.0.0.1:33633/bd7ee10c/index.html",
 file = paste0("./output/2025_Day_1_Points_",Sys.Date(),".png"))
