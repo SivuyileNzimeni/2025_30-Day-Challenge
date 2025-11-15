@@ -1,7 +1,12 @@
 # 2025 30-Day-Challenge
 
-1. *POINTS* - KWT & Fast Food
-2. *LINES* - BFN Roads
-3. *EARTH* - Rayshader & Hogsback
-4. *DIMENSIONS* - CPT Buildings & OpenBuildings Data
-5. *Accessibility* - PE and Access
+<ol>
+<li>*POINTS* - KWT Eateries [x] </li>
+<li>*LINES* - BFN Roads [x] </li>
+<li> *POLYGONS* - Voter Turnout - Tshwane [x]</li>
+<li>*EARTH* - Rayshader & Hogsback []</li>
+<li>*DIMENSIONS* - CPT Buildings & OpenBuildings Data </li>
+<li> *Accessibility* - PE and Access </li>
+<li>*3D Visualisation* - Johnannesburg Buildings </li>
+</ol>
+
